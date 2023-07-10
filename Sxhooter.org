@@ -1,0 +1,42 @@
+#+TITLE: Planetary-nebulae-spectra-mc
+* Planetary nebulae in the Magellanic clouds
+:PROPERTIES:
+:ID:       
+:END:
+
+* Motivation: 
+
+* Aim 
+
+To study 13 MC planetary nebulae through Xshooter spectra and photometry.  
+
+* Methodology 
+- [ ] Correction of extinction.
+- [ ] Try model the spectra
+
+
+
+* PNe in the MCs
+
+** <2023-07-07 Fri>Large
+  
+
+   Name (Alias) RA (J2000.0) Dec (J2000.0) Rphot [\″] (HST) Density [arcmin^-2] References / Comments
+
+   LMC-SMP-25 	05:06:24.00 	−69:03:19.2 	0.23 	68.4 	Shaw et al. (2001)
+   LMC-SMP-31 	05:09:20.23 	−67:47:25.2 	0.15 	44.6 	Shaw et al. (2001)
+   LMC-SMP-53 	05:21:32.93 	−67:00:05.5 	0.40 	19.6 	Shaw et al. (2001)
+   LMC-SMP-58	05:24:20.81 	−70:05:01.9 	0.13 	91.8 	Shaw et al. (2001)
+   LMC-Sa-104 	04:25:32.18 	−66:47:16.3 	<0.13 	1.9 	Shaw et al. (2006)
+   SMC-SMP-1 	00:23:58.67 	−73:38:03.8 	0.15 	4.4 	Stanghellini et al. (2003)
+
+** Small
+   
+   SMC-SMP-2 	00:32:38.81 	−71:41:58.7 	0.25 	1.8 	Shaw et al. (2006)
+   SMC-SMP-8 	00:43:25.30 	−72:38:18.9 	0.40 	17.4 	Stanghellini et al. (2003)
+   SMC-SMP-13 	00:49:51.71 	−73:44:21.3 	0.20 	24.0 	Stanghellini et al. (2003)
+   SMC-SMP-18 	00:51:57.97 	−73:20:31.1 	0.14 	58.3 	Stanghellini et al. (2003)
+   SMC-SMP-20 	00:56:05.39 	−70:19:24.7 	0.20 	2.2 	Stanghellini et al. (2003)
+   SMC-SMP-24 	00:59:16.09 	−72:01:59.7 	0.38 	25.9 	Stanghellini et al. (2003)
+   SMC-SMP-25 	00:59:40.51 	-71:38:15.1 	0.19 	12.8 	Stanghellini et al. (2003)
+
