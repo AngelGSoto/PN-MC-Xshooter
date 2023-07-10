@@ -11,6 +11,7 @@
 To study 13 MC planetary nebulae through Xshooter spectra and photometry.  
 
 * Methodology 
+- [ ] Looking information for individual source.
 - [ ] Correction of extinction.
 - [ ] Try model the spectra.
 
