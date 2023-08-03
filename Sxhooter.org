@@ -8,7 +8,8 @@
 
 * Aim 
 
-To study 13 MC planetary nebulae through Xshooter spectra and photometry.  
+To study 13 MC planetary nebulae through Xshooter spectra and photometry. Combined with photometry mainly SPLUS 
+(Catalogs and Halpha maps)?  
 
 * Methodology 
 - [ ] Looking information for individual source.
