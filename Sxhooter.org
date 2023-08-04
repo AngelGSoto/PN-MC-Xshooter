@@ -9,13 +9,14 @@
 * Aim 
 
 To study 13 MC planetary nebulae through Xshooter spectra and photometry. Combined with photometry mainly SPLUS 
-(Catalogs and Halpha maps)?  
+(Catalogs and Halpha maps)? 
+
+* Papers related 
 
 * Methodology 
 - [ ] Looking information for individual source.
 - [ ] Correction of extinction.
 - [ ] Try model the spectra.
-
 
 
 * PNe in the MCs
@@ -37,6 +38,9 @@ To study 13 MC planetary nebulae through Xshooter spectra and photometry. Combin
    +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
    |SMC-SMP-1           |00:23:58.67         |-73:38:03.8         |0.15                |4.4                 |Stanghellinietal.(2003)|
    +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
+
+- LMC-SMP-25: 
+
 
 ** Small
 
